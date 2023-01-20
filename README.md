@@ -1,3 +1,2 @@
 # senai-versoes-colaboracoes
-testet aq
-vamos ver
+"lembrei do comando: git commit
