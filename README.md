@@ -1,3 +1,2 @@
 # senai-versoes-colaboracoes
-testet aq
-vamos ver
+embrei do comando: git status
